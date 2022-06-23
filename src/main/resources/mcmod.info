@@ -1,0 +1,22 @@
+[
+  {
+    "modid": "jorgitohack",
+    "name": "JorgitoHack",
+    "description": "Big skid, thanks to Primooctopus33 for the help, and credits to everyone",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "iJese",
+      "Primooctopus33",
+      "DriftyDev",
+      "Wawd",
+      "P4nda",
+      "0IMax"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

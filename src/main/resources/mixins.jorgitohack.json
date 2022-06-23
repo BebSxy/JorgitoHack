@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.ijese.jorgitohack.mixin.mixins",
+  "refmap": "mixins.jorgitohack.refmap.json",
+  "mixins": [
+    "MixinRenderItem",
+    "MixinEntityLivingBase",
+    "MixinRenderGlobal",
+    "MixinRenderPlayer",
+    "MixinEntityRenderer",
+    "MixinRender",
+    "MixinRenderEnderCrystal",
+    "MixinAbstractClientPlayer",
+    "MixinEntity",
+    "MixinFontRenderer",
+    "MixinBlockLiquid",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiNewChat",
+    "MixinGuiPlayerTabOverlay",
+    "MixinGuiScreen",
+    "MixinItemRenderer",
+    "MixinMinecraft",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderLivingBase",
+    "MixinWorld"
+  ]
+}
